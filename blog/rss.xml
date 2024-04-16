@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Develop Site1 Blog</title>
+        <title>luxoep Develop Site Blog</title>
         <link>https://luxoep.github.io/blog</link>
-        <description>My Develop Site1 Blog</description>
+        <description>luxoep Develop Site Blog</description>
         <lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

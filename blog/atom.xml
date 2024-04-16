@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luxoep.github.io/blog</id>
-    <title>My Develop Site1 Blog</title>
+    <title>luxoep Develop Site Blog</title>
     <updated>2024-01-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luxoep.github.io/blog"/>
-    <subtitle>My Develop Site1 Blog</subtitle>
+    <subtitle>luxoep Develop Site Blog</subtitle>
     <icon>https://luxoep.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[我的博客]]></title>
