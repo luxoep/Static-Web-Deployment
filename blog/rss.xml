@@ -4,37 +4,17 @@
         <title>luxoep Develop Site Blog</title>
         <link>https://luxoep.github.io/blog</link>
         <description>luxoep Develop Site Blog</description>
-        <lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[我的博客]]></title>
-            <link>https://luxoep.github.io/blog/2024/01/29/learn-post</link>
-            <guid>https://luxoep.github.io/blog/2024/01/29/learn-post</guid>
-            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[不知道用来干什么]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="不知道用来干什么">不知道用来干什么<a href="https://luxoep.github.io/blog/2024/01/29/learn-post#%E4%B8%8D%E7%9F%A5%E9%81%93%E7%94%A8%E6%9D%A5%E5%B9%B2%E4%BB%80%E4%B9%88" class="hash-link" aria-label="Direct link to 不知道用来干什么" title="Direct link to 不知道用来干什么">​</a></h2>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://luxoep.github.io/blog/welcome</link>
-            <guid>https://luxoep.github.io/blog/welcome</guid>
+            <title><![CDATA[My Web Development]]></title>
+            <link>https://luxoep.github.io/blog/My-Web-Development</link>
+            <guid>https://luxoep.github.io/blog/My-Web-Development</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://luxoep.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>facebook</category>
+            <description><![CDATA[一些有用的小Tips，和Web学习之路]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一些有用的小tips和web学习之路">一些有用的小Tips，和Web学习之路<a href="https://luxoep.github.io/blog/My-Web-Development#%E4%B8%80%E4%BA%9B%E6%9C%89%E7%94%A8%E7%9A%84%E5%B0%8Ftips%E5%92%8Cweb%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF" class="hash-link" aria-label="Direct link to 一些有用的小Tips，和Web学习之路" title="Direct link to 一些有用的小Tips，和Web学习之路">​</a></h2>]]></content:encoded>
             <category>hello</category>
             <category>docusaurus</category>
         </item>
