@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7908],{3439:e=>{e.exports=JSON.parse('{"label":"jQuery","permalink":"/docs/tags/j-query","allTagsPath":"/docs/tags","count":1,"items":[{"id":"tutorial-basics/jQueryLearn","title":"JavaScript - jQuery","description":"","permalink":"/docs/tutorial-basics/jQueryFunction"}],"unlisted":false}')}}]);
